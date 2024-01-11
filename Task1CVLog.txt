@@ -1,0 +1,6 @@
+=> browseAnImg function was called
+=> Image path was chosen from the dialog box
+=> image path is set to E:/my resumes/Software/Computer-Vision-Tasks-main/Task1/Sources/photo2.png
+=> browseAnImg function was called
+=> Image path was chosen from the dialog box
+=> image path is set to E:/my resumes/Software/Computer-Vision-Tasks-main/Task1/Sources/photo1.jpeg
